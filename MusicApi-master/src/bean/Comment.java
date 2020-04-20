@@ -2,7 +2,7 @@ package bean;
 
 import java.util.List;
 /**
- * Created by MiChong on 2017/11/22 00223.
+ * Created by MiChong on 2017/11/22 002235.
  */
 public class Comment {
  
